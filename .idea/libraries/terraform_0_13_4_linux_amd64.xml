@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="terraform_0.13.4_linux_amd64">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/openidl-deployment-scripts/terraform_tool/terraform_0.13.4_linux_amd64.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
